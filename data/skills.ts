@@ -1,0 +1,38 @@
+export const skills = [
+  {
+    id: "1",
+    title: "Guitar Basics — Play in 60 mins",
+    teacher: "Rohan Mehta",
+    teacherId: "t1",
+    duration: "45 mins",
+    priceCredits: 8,
+    short: "Chords, strumming, and simple songs for beginners.",
+  },
+  {
+    id: "2",
+    title: "Python for Beginners",
+    teacher: "Aisha Khan",
+    teacherId: "t2",
+    duration: "60 mins",
+    priceCredits: 10,
+    short: "Write your first Python script and understand basics.",
+  },
+  {
+    id: "3",
+    title: "Bike Repair Basics",
+    teacher: "Sameer Rao",
+    teacherId: "t3",
+    duration: "30 mins",
+    priceCredits: 6,
+    short: "Fix a flat tire, adjust brakes, basic maintenance.",
+  },
+  {
+    id: "4",
+    title: "Portrait Photography (Phone Edition)",
+    teacher: "Maya Verma",
+    teacherId: "t4",
+    duration: "45 mins",
+    priceCredits: 7,
+    short: "Learn lighting, composition, & mobile editing tricks.",
+  },
+];
